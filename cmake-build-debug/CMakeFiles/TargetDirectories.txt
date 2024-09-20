@@ -1,0 +1,3 @@
+C:/Users/HUSEYIN/CLionProjects/FirstProjectnC++/cmake-build-debug/CMakeFiles/FirstProjectnC__.dir
+C:/Users/HUSEYIN/CLionProjects/FirstProjectnC++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HUSEYIN/CLionProjects/FirstProjectnC++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
