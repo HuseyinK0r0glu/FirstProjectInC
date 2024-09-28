@@ -45,7 +45,7 @@ int main() {
     std::cout << fileSize + sales << std::endl;
     */
 
-    cout << a << std::endl << b << std::endl;
+    cout << a << ::endl << b << std::endl;
 
     cout << "------" << std::endl;
 
@@ -92,7 +92,7 @@ int main() {
     int number = 0b11111; // to represents a number in binary we use "0b" and then our number
     int number1 = 0xFF; // to represents a number in hexadecimal we use "0x" and then our number
 
-    // to get a radnom number we use rand() function from cstdlib library
+    // to get a random number we use rand() function from cstdlib library
     // but rand does not give truly random number it gives the same number everytime
     srand(5); // random number generator we can change that number
     // srand(time(0)) to get exactly random number everytime
